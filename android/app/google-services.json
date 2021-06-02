@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "367029770122",
+    "project_id": "cryptocurrency-wallet-3d631",
+    "storage_bucket": "cryptocurrency-wallet-3d631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367029770122:android:3b3a07e441aaf5caac1a73",
+        "android_client_info": {
+          "package_name": "com.example.cryplet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367029770122-thejc2hoblqva764129u64hd2qbq4875.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5pin3BvokofJYvZIcUatvw2yehRdrYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367029770122-thejc2hoblqva764129u64hd2qbq4875.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367029770122-398igv6apt83hk4mqco3vphr2f9629k1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crypletApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
