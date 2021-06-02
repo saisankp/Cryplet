@@ -1,5 +1,5 @@
 # <h1 align="center">Cryplet</h1>
-<h2 align="center">A cryptocurrency wallet developed with Flutter, which uses Firestore and Firebase Authentication.</h2>
+<h2 align="center">A cryptocurrency wallet developed with Flutter using Firestore and Firebase Authentication.</h2>
 <img src="demo/cryplet-demo.gif" width="500" height="500" align="right"/>
 <h3 align="center">Why did you make this?</h3>
 <p>As someone who had not used Flutter before, I was eager to start developing my first Flutter application and decided to learn how to use Firestore and Firebase Authentication. Since I had an interest in cryptocurrencies, I made this application which let's users log in or register with a password, and let's them add a handful of different crypto coins into their own dedicated crypto wallet. <br><br>
