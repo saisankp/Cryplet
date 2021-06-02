@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/cryplet_app/BuildConfig.java
- com.example.cryplet_app.BuildConfig
